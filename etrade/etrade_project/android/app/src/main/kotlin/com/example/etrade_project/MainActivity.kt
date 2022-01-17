@@ -1,0 +1,6 @@
+package com.example.etrade_project
+
+import io.flutter.embedding.android.FlutterActivity
+
+class MainActivity: FlutterActivity() {
+}

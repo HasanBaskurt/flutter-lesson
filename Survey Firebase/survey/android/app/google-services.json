@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "386242632746",
+    "project_id": "survey-f18dd",
+    "storage_bucket": "survey-f18dd.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:386242632746:android:923dce7d1bb92eadeff753",
+        "android_client_info": {
+          "package_name": "com.example.survey"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "386242632746-7dr74s67njf7as97ibp0qnd2j9s4bkiu.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCqmSCUPt3OA2jQt0Q8sT7sHGfIt72ARW8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "386242632746-7dr74s67njf7as97ibp0qnd2j9s4bkiu.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
